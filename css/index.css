@@ -1,0 +1,46 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+
+body{
+    background-color: #EAE2D9;
+    padding: 2vw;
+    height: 100vh;
+}
+
+main{
+    height: 100%;
+    border: solid 2px black;
+}
+
+header{
+    margin-top: 4vw;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 5vw;
+}
+
+.header_item{
+    padding: 0 5vw;
+    text-decoration: none;
+    color: black;
+}
+h2{
+    font-size: 8vw;
+    font-weight: 900;
+    letter-spacing: -0.7vw;
+}
+.item{
+    position: relative;
+    width: 100%;
+}
+
+.item_content{
+    margin-bottom: 3vw;
+    display: flex;
+    justify-content: center;
+    color: black;
+}
