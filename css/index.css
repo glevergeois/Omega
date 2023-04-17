@@ -6,7 +6,7 @@
 
 body{
     background-color: #EAE2D9;
-    padding: 2vw;
+    padding: 1vw;
     height: 100vh;
 }
 
@@ -20,7 +20,7 @@ header{
     width: 100%;
     display: flex;
     justify-content: space-around;
-    margin-bottom: 5vw;
+    margin-bottom: 6vw;
 }
 
 .header_item{
