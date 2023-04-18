@@ -28,7 +28,7 @@
             <label for="mail">Your mail:</label>
             <input type="text" name="mail" action="" placeholder="name@example.com"></input>
             <button type="button" name="button" action="POST">Send</button>
-            <p>Promise you will never be bothered with too much mails !</p>
+            <p>Promise you will never be bothered by too much mails !</p>
             </div>
         </div>
         <div class="item"> 
