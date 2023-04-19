@@ -100,3 +100,27 @@ border-width: .2vw;
 z-index: 9;
 margin-left: -50%; 
 }
+
+.more{
+    position: relative;
+    width: 49.8vw;
+    display: flex;
+    justify-content: space-around;
+}
+
+.text{
+    margin-top: -5vw;
+    position: relative;
+    opacity: 0;
+    transition: all .5s ease-out;
+    background-color: none;
+    z-index: 0;
+    display: flex;
+    justify-content: space-around;
+}
+
+.text:hover{
+    opacity: 1;
+    background-color: #dfd8cf;
+    z-index: 1;
+}

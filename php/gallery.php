@@ -49,3 +49,20 @@
             <img class="image_right" src="../images/8.jpg" >
         </article>
     </section>
+    <section class="item">
+        <article class="more">
+            <p >More...</p>
+        </article>
+    </section>
+    <section>
+        <article class="text">
+            <p>
+                I’ve been a photographer since my young age,<br>
+                Observing everything that was around me,<br>
+                caring about time, nature, and more.<br>
+                My whole life I’ve been trying to understood<br>
+                how the world was evolving and moving around me.<br> 
+                Photographing it was a way to do so.
+            </p>
+        </article>
+    </section>
