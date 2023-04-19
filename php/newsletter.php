@@ -23,11 +23,10 @@
             </div>
             <div class="rectangle_item">
             <p>Receive a monthly newsletter about the evolution of my site.<br> Receive a mail each time I post a new thing.</p>
+            
             </div>
             <div class="rectangle_item_2">
-            <label for="mail">Your mail:</label>
-            <input type="text" name="mail" action="" placeholder="name@example.com"></input>
-            <button type="button" name="button" action="POST">Send</button>
+            <a href="http://eepurl.com/ippNo6">Subscribe by clicking here !</a>
             <p>Promise you will never be bothered by too much mails !</p>
             </div>
         </div>
