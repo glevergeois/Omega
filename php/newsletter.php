@@ -22,12 +22,11 @@
                 <h2>Newsletter</h2>
             </div>
             <div class="rectangle_item">
-            <p>Receive a monthly newsletter about the evolution of my site.<br> Receive a mail each time I post a new thing.</p>
-            
+                <p>Receive a monthly newsletter about the evolution of my site.<br> Receive a mail each time I post a new thing.</p>
             </div>
             <div class="rectangle_item_2">
-            <a href="http://eepurl.com/ippNo6">Subscribe by clicking here !</a>
-            <p>Promise you will never be bothered by too much mails !</p>
+                <p style="display: inline;">Subscribe by clicking</p><a style="font-weight: 800; display: inline;" href="http://eepurl.com/ippNo6"> here</a><p style="display: inline;"> !</p><br>
+                <p style="line-height: 2vw;">Promise you will never be bothered by too much mails !</p>
             </div>
         </div>
         <div class="item"> 
