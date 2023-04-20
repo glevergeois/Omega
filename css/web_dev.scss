@@ -52,36 +52,25 @@ h3{
     border: .15vw solid black;
     text-align: center;
     padding: 3vw;
-    margin-top: 1vw;
-    margin-bottom: .5vw;
+    margin: 1vw;
     box-shadow: .1vw .1vw rgb(145, 145, 145);
-    height: 8.5vw;
+    height: 55vh;
 }
 
 .item_bottom:hover{
     color: white;
 }
 
-.item_bottom_right{
-    width: 98%;
-    border: .15vw solid black;
-    text-align: center;
-    padding: 1vw;
-    margin-top: 1vw;
-    height: 95%;
-    box-shadow: .1vw .1vw rgb(145, 145, 145);
-}
-
-.section {
-    display: flex;
-    flex-direction: row;
-}
-
 .section_column{
     display: flex;
-    flex-direction: column;
-    width: 50%;
+    flex-direction: row;
+    width: 100%;
     align-items: center;
 }
 
-
+.image{
+    margin-top: 1vw;
+    width: 100%;
+    border: .15vw solid black;
+    border-radius: 1%;
+}

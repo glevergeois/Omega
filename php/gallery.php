@@ -51,12 +51,12 @@
     </section>
     <section class="item">
         <article class="more">
-            <p >More...</p>
+            <p style="font-size: .8vw;">More...</p>
         </article>
     </section>
     <section>
         <article class="text">
-            <p>
+            <p style="font-size: .8vw;">
                 I’ve been a photographer since my young age,<br>
                 Observing everything that was around me,<br>
                 caring about time, nature, and more.<br>

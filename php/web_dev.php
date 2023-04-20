@@ -23,15 +23,13 @@
             <div class="item_content">
                 <h2>My projects</h2>
     </ul>
-<section class="section">
     <section class="section_column">
             <div class="item_bottom">
                 <h3>Instameme</h3>
+                <img class="image" src="../images/insta.jpg">
             </div>
             <div class="item_bottom">
                 <h3>phoneX</h3>
+                <img class="image" src="../images/phonex.png">
             </div>
     </section>
-    <section class="section_column_2">
-    </section>
-</section>
