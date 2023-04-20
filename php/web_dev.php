@@ -18,3 +18,20 @@
 
 <main>
     <?php require_once 'header.php' ?>
+    <ul>
+        <div class="item" style="text-decoration: none">
+            <div class="item_content">
+                <h2>My projects</h2>
+    </ul>
+<section class="section">
+    <section class="section_column">
+            <div class="item_bottom">
+                <h3>Instameme</h3>
+            </div>
+            <div class="item_bottom">
+                <h3>phoneX</h3>
+            </div>
+    </section>
+    <section class="section_column_2">
+    </section>
+</section>

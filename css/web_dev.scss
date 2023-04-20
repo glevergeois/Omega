@@ -17,10 +17,71 @@ main{
 }
 
 h2{
-    font-size: 8vw;
+    font-size: 5vw;
     font-weight: 900;
-    letter-spacing: 3vw;
-    color: white;
-    opacity: .7;
-    
+    letter-spacing: -.5vw;
+    color: rgb(0, 0, 0); 
+    text-align: center;
 }
+
+h3{
+    font-size: 1.5vw;
+    letter-spacing: -.08vw;
+    font-weight: 800;
+}
+
+.item{
+    width: 100%;
+    position: relative;
+
+    .item_content{
+        height: 7vw;
+        color: #000000;
+        cursor: pointer;
+        display: flex;
+        justify-content: center;
+        color: black;
+        width: 100%;  
+        border-bottom: .15vw solid black;
+        border-top: .15vw solid black;
+    }
+}
+
+.item_bottom{
+    width: 98%;
+    border: .15vw solid black;
+    text-align: center;
+    padding: 3vw;
+    margin-top: 1vw;
+    margin-bottom: .5vw;
+    box-shadow: .1vw .1vw rgb(145, 145, 145);
+    height: 8.5vw;
+}
+
+.item_bottom:hover{
+    color: white;
+}
+
+.item_bottom_right{
+    width: 98%;
+    border: .15vw solid black;
+    text-align: center;
+    padding: 1vw;
+    margin-top: 1vw;
+    height: 95%;
+    box-shadow: .1vw .1vw rgb(145, 145, 145);
+}
+
+.section {
+    display: flex;
+    flex-direction: row;
+}
+
+.section_column{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    align-items: center;
+}
+
+
